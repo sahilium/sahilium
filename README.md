@@ -1,16 +1,36 @@
-## Hi there 👋
+```lisp
+ ____________________________ 
+< Live long and prosper 🖖 >
+ ---------------------------- 
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+```
 
-<!--
-**sahilium/sahilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### nonomino.conf
+```toml
+title     = "developer"
+name      = "Sahil"
+homepage  = "sahil.im"
 
-Here are some ideas to get you started:
+[skills]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[skills.langs]
+great_at = [
+    "Ruby",
+    "Python",
+    "JS",
+    "Java",
+    "Go",
+    "C & C++"
+]
+
+learning = [
+    "Haskell",
+    "Rust"
+]
+```
