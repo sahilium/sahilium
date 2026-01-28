@@ -11,7 +11,7 @@
                ||     ||
 ```
 
-#### nonomino.conf
+#### ~/.config/sahil.conf
 ```toml
 title     = "developer"
 name      = "Sahil"
