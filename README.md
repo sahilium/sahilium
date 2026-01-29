@@ -10,6 +10,7 @@
                ||----w |
                ||     ||
 ```
+<img src="https://lastfm-stats.vercel.app/api/lastfm" height="200" width="400"/>
 
 #### ~/.config/sahil.conf
 ```toml
