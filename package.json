@@ -1,0 +1,44 @@
+{
+	"name": "sahilium",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "A personal npm card for @sahilium",
+	"author": "Sahil A (hi@sahil.im)",
+	"license": "MIT",
+	"main": "./src/index.js",
+	"bin": {
+		"sahilium": "./src/index.js"
+	},
+	"scripts": {
+		"dev": "node src/index.js",
+		"clean": "rimraf bin/*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sahilium/sahilium.git"
+	},
+	"keywords": [
+		"npm",
+		"npx",
+		"node",
+		"javascript",
+		"front-end",
+		"npx card",
+		"business card"
+	],
+	"bugs": {
+		"url": "https://github.com/sahilium/sahilium/issues"
+	},
+	"homepage": "https://github.com/sahilium/sahilium",
+	"packageManager": "pnpm@10.11.1",
+	"dependencies": {
+		"@clack/prompts": "^1.0.0",
+		"boxen": "^8.0.1",
+		"chalk": "^5.6.2",
+		"clear": "^0.1.0",
+		"open": "^11.0.0"
+	},
+	"devDependencies": {
+		"rimraf": "^6.1.2"
+	}
+}
