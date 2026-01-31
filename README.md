@@ -1,6 +1,10 @@
+ ## hola mundo 👋 i'm sahil
+
+`npx sahilium` to meet me in your terminal!
+
 ```lisp
  ____________________________ 
-< Live long and prosper 🖖 >
+< live long and prosper 🖖 >
  ---------------------------- 
   \
    \   \_\_    _/_/
@@ -10,28 +14,32 @@
                ||----w |
                ||     ||
 ```
-<img src="https://lastfm-stats.vercel.app/api/lastfm" height="200" width="400"/>
+<img src="https://lastfm.sahil.im/api/lastfm" height="200" width="400"/>
 
 #### ~/.config/sahil.conf
 ```toml
 title     = "developer"
-name      = "Sahil"
+name      = "sahil"
 homepage  = "sahil.im"
+mail      = "contact@?!?!?.im"
 
 [skills]
 
 [skills.langs]
 great_at = [
-    "Ruby",
-    "Python",
-    "JS",
-    "Java",
-    "Go",
-    "C & C++"
+    "ruby",
+    "python",
+    "js/ts",
+    "java",
+    "go",
+    "c & c++"
 ]
 
 learning = [
-    "Haskell",
-    "Rust"
+    "haskell",
+    "rust"
 ]
 ```
+#### summary
+
+<img src="./assets/images/summary.svg"/>
