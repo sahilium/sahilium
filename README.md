@@ -1,6 +1,9 @@
  ## hola mundo 👋 i'm sahil
 
-`npx sahilium` to meet me in your terminal!
+![](https://img.shields.io/badge/sahilium-ok?style=flat-square&logo=npm&label=npx&labelColor=000000&color=008080)
+
+
+![](https://img.shields.io/badge/C48E%20FD22%20D37B%207FA7%206B19%20%209EBC%206702%20701C%20729E%20B429-ok?style=flat-square&label=pgp&labelColor=000000&color=008080&logo=gnuprivacyguard)
 
 ```lisp
  ____________________________ 
